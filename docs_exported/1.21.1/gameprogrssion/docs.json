@@ -1,0 +1,6 @@
+{"nav":{"Mods":{
+  "GameProgrssion":{
+    "Api":{"Stages":"mods/gameprogrssion/api/Stages.json"},
+    "Addons":{"OreStage":"mods/gameprogrssion/addons/OreStage.json"}
+  }
+}}}
